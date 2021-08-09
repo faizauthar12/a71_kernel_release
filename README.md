@@ -9,11 +9,15 @@ Changelog based on human brain :
 
 <details>
 <summary>List</summary>
+
+```
 AR=llvm-ar
 NM=llvm-nm
 OBJCOPY=llvm-objcopy
 OBJDUMP=llvm-objdump
 STRIP=llvm-strip
+```
+
 </details>
 
 - update source to BUC1
